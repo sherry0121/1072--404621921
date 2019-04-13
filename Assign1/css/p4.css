@@ -1,0 +1,55 @@
+#container{
+    height: 600px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: rgb(126, 43, 43);
+    height: 12%;
+    width: 100%;
+    text-align: center;
+    line-height: 70px;
+    font-weight: bold;
+    font-size: 200%;
+    color: aliceblue;
+}
+#menu{
+    height: 10%;
+    width:  100%;
+    background-image: url(../images/bg.jpg);
+    margin-top: -20px;
+}
+
+ul li{
+    height: 70%;
+    width:  18%;
+    display: block;
+    margin-top: 10px;
+    background-image: url(../images/btn.png);
+    float: left;
+}
+
+
+#HtmlDemo{
+
+    height: 70%;
+    width:  100%;
+}
+
+.consection{
+    height: 90%;
+    width:  95%;
+    margin: auto auto;
+}
+
+#footer{
+    background-color: darkred;
+    height: 8%;
+    width:  100%;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 150%;
+    color: aliceblue;
+}

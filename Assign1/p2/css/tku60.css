@@ -1,0 +1,40 @@
+#container{
+    background-color: peru;
+    height: 600px;
+    width: 630px;
+    border: 7px solid purple;
+    margin: 0 auto;
+}
+
+#heading{
+    background-color: rgb(205, 184, 63);
+    height: 70px;
+    width: 630px;
+    margin-top: -20px;
+    text-align: center;
+    line-height: 70px;
+}
+
+#menu{
+    background-color: rgb(219, 165, 117);
+    height: 50px;
+    width: 630px;
+    margin-top: -15px;
+    text-align: center;
+}
+
+ul li{
+    background-color: silver;
+    list-style-type:none;
+    height: 30%;
+    width: 15%;
+    float: left;
+    padding: 5px;
+    margin: 10px 7px;
+    margin-top: 10px;
+    text-align: center;    
+}
+
+#player{
+    background-color: purple;
+}
